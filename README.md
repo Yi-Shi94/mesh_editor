@@ -5,6 +5,6 @@ Assignment1: a C++ ray tracer from scratch
 
 Assignment2: a C++ OpenGL 2D interactive application 
 
-Assignment1: a C++ OpenGL 3D mesh interactive application 
+Assignment1: a C++ OpenGL 3D interactive application 
 
 Assignment1: a C++ OpenGL 3D mesh editor 
